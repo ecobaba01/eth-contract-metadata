@@ -1,4 +1,11 @@
-{
+},
+  "0x38a9b399e1e1E1684B349F5BBF9389bC99d655C5": {
+    "name": "Bitcoin",
+    "logo": "BTC.svg",
+    "erc20": true,
+    "symbol": "BTC",
+    "decimals": 8
+  },
   "0x178c820f862B14f316509ec36b13123DA19A6054": {
     "name": "Energy Web Token Bridged",
     "logo": "ewtb.svg",
